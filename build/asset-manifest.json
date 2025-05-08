@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.a453f12d.css",
-    "main.js": "/static/js/main.69afd192.js",
+    "main.js": "/static/js/main.4f9cbf84.js",
     "static/media/Kellton_Traine.png": "/static/media/Kellton_Traine.650008e329394ddbf6d6.png",
     "static/media/ISRO 2.png": "/static/media/ISRO 2.7d8a4afe1c2bee07182f.png",
-    "static/media/mta.png": "/static/media/mta.368f1a8e3f81efff41af.png",
+    "static/media/Mta.png": "/static/media/Mta.368f1a8e3f81efff41af.png",
     "static/media/Remark_Intership.png": "/static/media/Remark_Intership.0690404e823127cd5714.png",
     "static/media/ISRO 1.png": "/static/media/ISRO 1.6f2a68a3f5c5c47ea19a.png",
     "static/media/IS_OfferLetter.png": "/static/media/IS_OfferLetter.7994814d84ec08a52f80.png",
@@ -42,10 +42,10 @@
     "static/media/bootstrap.png": "/static/media/bootstrap.5f221ec70518e4c64eaa.png",
     "index.html": "/index.html",
     "main.a453f12d.css.map": "/static/css/main.a453f12d.css.map",
-    "main.69afd192.js.map": "/static/js/main.69afd192.js.map"
+    "main.4f9cbf84.js.map": "/static/js/main.4f9cbf84.js.map"
   },
   "entrypoints": [
     "static/css/main.a453f12d.css",
-    "static/js/main.69afd192.js"
+    "static/js/main.4f9cbf84.js"
   ]
 }
