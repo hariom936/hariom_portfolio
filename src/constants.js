@@ -51,6 +51,17 @@ import pacificLogo from './assets/work_logo/pacific.png';
 import devLogo from './assets/certification_logo/dev.png';
 import buildLogo from './assets/certification_logo/build.png';
 import promptLogo from './assets/certification_logo/prompt.png';
+import isro1Logo from './assets/certification_logo/ISRO 1.png';
+import isro2Logo from './assets/certification_logo/ISRO 2.png';
+import awsBusinessLogo from './assets/certification_logo/awsBusiness.png';
+import awsCloudLogo from './assets/certification_logo/awsCloud.png';
+import Remark_IntershipLogo from './assets/certification_logo/Remark_Intership.png';
+import mtaLogo from './assets/certification_logo/mta.png';
+import IS_offer from './assets/certification_logo/IS_OfferLetter.png';
+import KelltonTraineLogo from './assets/certification_logo/Kellton_Traine.png';
+import kelltonTrainingLogo from './assets/certification_logo/Kellton_TrainingCompleted.png';
+import kelltonExperienceLogo from './assets/certification_logo/Kellton_experience.png';
+import MithuExperienceLogo from './assets/certification_logo/MithuPicture_ExperienceLetter.png';
 
 export const SkillsInfo = [
   {
@@ -302,5 +313,83 @@ export const certifications = [
     logo: promptLogo, // Udemy logo URL
     link: "https://www.credly.com/badges/76287ca8-eb27-4394-8697-b29961a33d6b/public_url", // Replace with the actual link
   },
+  {
+    title: "IIRS Outreach Program on Remote Sensing and GIS",
+    issuer: "ISRO",
+    year: 2025,
+    logo: isro1Logo, // Udemy logo URL
+    link: "https://drive.google.com/file/d/16WAqBClIzoqqbq4dX5Aezz2Gq6wwgPJK/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Space Science And Technology Awareness Training (START)",
+    issuer: "ISRO",
+    year: 2025,
+    logo: isro2Logo, // Udemy logo URL
+    link: "https://drive.google.com/file/d/1XgS6DfKSBHo9U8yWEYrZnxY8_yVj1qE1/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "AWS Business Accredited",
+    issuer: "AWS",
+    year: 2021,
+    logo: awsBusinessLogo, // Udemy logo URL
+    link: "https://www.credly.com/badges/44fc8dc1-13c8-4ee9-aee1-770636247020/linked_in_profile", // Replace with the actual link
+  },
+  {
+    title: "AWS Partner: Cloud Economics Essentials",
+    issuer: "AWS",
+    year: 2025,
+    logo: awsCloudLogo, // Udemy logo URL
+    link: "https://www.credly.com/badges/d82fe1e6-b2bf-4845-9b31-7baecbd5d295/linked_in?t=rilm2u", // Replace with the actual link
+  },
+  {
+    title: "Microsoft Technology Associate",
+    issuer: "Microsoft",
+    year: 2021,
+    logo: mtaLogo, // Udemy logo URL
+    link: "https://drive.google.com/file/d/1i5PbFMgJWrACCx6_nWrEpQDw0NSlEDVp/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Intership Studio Offer Letter",
+    issuer: "CIT",
+    year: 2025,
+    logo: IS_offer,
+    link: "https://drive.google.com/file/d/1ucQX7FSVmXhLZJsIIi4n5mec44wz_72w/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Mithu Picture Experience Letter",
+    issuer: "Mithi Picture",
+    year: 2025,
+    logo: MithuExperienceLogo,
+    link: "https://drive.google.com/file/d/1ZYnQZEZie7qSpE2hz2Ndc4gDbXonwGsa/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Kellton Experience Letter",
+    issuer: "Kellton",
+    year: 2024,
+    logo: kelltonExperienceLogo,
+    link: "https://drive.google.com/file/d/122q09zkja2jIrmIJz1rYZHsZcDMLypDA/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Kellton Training Completion Certificate",
+    issuer: "Kellton",
+    year: 2022,
+    logo: kelltonTrainingLogo,
+    link: "https://drive.google.com/file/d/1imEjqGYbe4g5QNlVNYs_noE_70PAeBb7/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Kellton Training Start Certificate",
+    issuer: "Kellton",
+    year: 2022,
+    logo: KelltonTraineLogo,
+    link: "https://drive.google.com/file/d/1yV4HDokNJuhXw74tIhgEGXw5ryXJqWlq/view?usp=drive_link", // Replace with the actual link
+  },
+  {
+    title: "Remarkskill Internship Completion Certificate",
+    issuer: "Remark Skill",
+    year: 2021,
+    logo: Remark_IntershipLogo, // Udemy logo URL
+    link: "https://drive.google.com/file/d/1loI0QRIV30lLXrvWuTZwHASpXUzE4Yhn/view?usp=drive_link", // Replace with the actual link
+  }
+  
 ];
 
