@@ -56,7 +56,7 @@ import isro2Logo from './assets/certification_logo/ISRO 2.png';
 import awsBusinessLogo from './assets/certification_logo/awsBusiness.png';
 import awsCloudLogo from './assets/certification_logo/awsCloud.png';
 import Remark_IntershipLogo from './assets/certification_logo/Remark_Intership.png';
-import mtaLogo from './assets/certification_logo/Mta.png';
+import mtaLogo from './assets/certification_logo/microsoft.png'
 import IS_offer from './assets/certification_logo/IS_OfferLetter.png';
 import KelltonTraineLogo from './assets/certification_logo/Kellton_Traine.png';
 import kelltonTrainingLogo from './assets/certification_logo/Kellton_TrainingCompleted.png';
