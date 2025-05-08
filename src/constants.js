@@ -390,5 +390,4 @@ export const certifications = [
     logo: Remark_IntershipLogo, // Udemy logo URL
     link: "https://drive.google.com/file/d/1loI0QRIV30lLXrvWuTZwHASpXUzE4Yhn/view?usp=drive_link", // Replace with the actual link
   }
-  
 ];
