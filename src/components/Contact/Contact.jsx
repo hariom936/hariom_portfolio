@@ -1,11 +1,11 @@
-import React, { useRef, useState } from "react";
+import  { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Contact = () => {
   const form = useRef();
-  const [isSent, setIsSent] = useState(false);
+  const [setIsSent] = useState(false);
 
   const sendEmail = (e) => {
     e.preventDefault();

@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import { education } from "../../constants"; // Import the education data
 
 const Education = () => {

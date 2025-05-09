@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import { certifications } from "../../constants"; // adjust the path as needed
 
 const CertificationSection = () => {
@@ -28,11 +28,14 @@ const CertificationSection = () => {
                 />
               </div>
               {/* Title and Combined Details */}
+              <p className="text-md text-purple-400 text-center mb-2"> {/* Updated issuer/year color to purple */}
+                {cert.issuer} 
+              </p>
               <h3 className="text-xl font-semibold text-white text-center mb-2"> {/* Updated title color to white */}
                 {cert.title}
               </h3>
               <p className="text-md text-purple-400 text-center mb-2"> {/* Updated issuer/year color to purple */}
-                {cert.issuer} ({cert.year})
+                 ({cert.year})
               </p>
             </div>
             {cert.link && (

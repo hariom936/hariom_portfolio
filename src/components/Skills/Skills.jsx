@@ -1,5 +1,5 @@
 // src/components/Skills/Skills.jsx
-import React from "react";
+import "react";
 import { SkillsInfo } from "../../constants";
 import Tilt from "react-parallax-tilt";
 

@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import { FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
@@ -22,7 +22,7 @@ const Footer = () => {
             { name: "About", id: "about" },
             { name: "Skills", id: "skills" },
             { name: "Experience", id: "experience" },
-            { name: "Projects", id: "projects" },
+            { name: "Projects", id: "work" },
             { name: "Education", id: "education" },
           ].map((item, index) => (
             <button
